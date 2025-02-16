@@ -23,7 +23,7 @@ class Main extends PluginBase implements Listener{
         $positionString = $this->getConfig()->get("position", "0 0 0");
         
         if ($worldName === "world" && $positionString === "0 0 0") {
-            return; // Keine Aktion, wenn die Config "world" und "0 0 0" ist
+            return; 
         }
         
         $positionArray = explode(" ", $positionString);
