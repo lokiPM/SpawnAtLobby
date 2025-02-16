@@ -2,7 +2,7 @@
 
 declare(strict_types=1);
 
-namespace lokiPM\lubroLobby;
+namespace lokiPM\SpawnAtLobby;
 
 use pocketmine\plugin\PluginBase;
 use pocketmine\event\Listener;
