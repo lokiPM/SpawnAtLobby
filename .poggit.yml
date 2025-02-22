@@ -5,5 +5,5 @@ branches:
 projects:
   SpawnAtLobby:
     path: ""
-    icon: "icon.png"
+    icon: ""
 ...
