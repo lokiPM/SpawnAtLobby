@@ -1,2 +1,5 @@
-world: world
+# made by lokiPM 
+# Change world to your lobby world name
+# Change position to youe lobby world spawn position (x y z)
+world: world 
 position: "0 0 0"
