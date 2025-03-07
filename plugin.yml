@@ -1,5 +1,5 @@
 name: SpawnAtLobby
 version: 1.1.0
-main: lokiPM\SpawnAtLobby\Main
+main: lubro0\SpawnAtLobby\Main
 api: 5.0.0
-src-namespace-prefix: lokiPM\SpawnAtLobby
+src-namespace-prefix: lubro0\SpawnAtLobby
